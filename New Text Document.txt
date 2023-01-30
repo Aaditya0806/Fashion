@@ -1,0 +1,7 @@
+Hello..
+
+This landing page about Fashion(Men & Women) in this the technology
+is used HTML,CSS and JAVASCRIPT in which we can see the new product 
+and best collection of men and women 
+And in this elastic email is use in the contact form in admin give 
+its email and password(elastic email) and receive users quaries.
